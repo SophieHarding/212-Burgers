@@ -10,7 +10,7 @@
   
   #header {
     background-color: #DFE;
-    background-image: url(assets/checks.svg), url(assets/checks.svg);
+    background-image: url(checks.svg), url(checks.svg);
     background-position: top, bottom;
     background-repeat: repeat-x;
     background-size: 35px;
@@ -47,7 +47,7 @@
 
   #menu {
     background-color: white;
-    background-image: url(assets/menu-bg.svg);
+    background-image: url(menu-bg.svg);
     background-size: 46px;
     border-bottom: #2A8 10px solid;
     border-top: #2A8 4px solid;
